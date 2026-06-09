@@ -108,7 +108,7 @@ Evaluation metrics used:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Diabetes-Prediction-ML.git
+git clone https://github.com/shaik-asif967/Diabetes-Prediction-using-Machine-Learning.git
 ```
 
 ### Navigate to Project Folder
